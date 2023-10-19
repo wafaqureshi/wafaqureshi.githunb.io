@@ -1,10 +1,10 @@
-# wafaqureshi.githunb.io
-<!DOCTYPE html>
+<!doctype html>
 <html>
 <head>
-  <title>Hello Coursera, how are you!</title>
- </head>
- <body>
- <h1> Hello Coursera, you cute!</h1>
- </body>
- </html>
+ <meta charset="utf-8">
+ <title>Coursera is Cool!</title>
+</head>
+<body>
+Coursera is so cool! I am learning So Much!
+</body>
+</html>
