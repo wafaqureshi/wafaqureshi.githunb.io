@@ -1,24 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset= "utf-8"
-  <title>
+  <meta charset="utf-8">
+  <titlt>Ordered Lists</title>
 </head>
 <body>
-  <h1>unorderd list</h1>
+  <h1>Ordered list</h1>
   <div>
 
-     My typical dinner shopping list:
-
-     Milk
-     Donuts
-     Cookies
-       Choclates
-       Sugar
-       Peanut Butter
-      Pepto bismol
-
-  </div>
-</body>
-</html
-
+    Oreo cookie eating procedure:
+    <ol>
+      <li>open box</li>
+      <li>take out cookie</li>
+      <li>Make a double oreo
+        <ol>
+          <li>peel off the top part</li>
+          <li>place another cookie</li>
+        </ol>
+      </li>
+      <li>enjoy!</li>
+    </ol>
